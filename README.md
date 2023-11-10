@@ -1,2 +1,2 @@
-# Python
- Códigos implementandos em Python
+# Python 
+ Meus códigos implementandos em Python.
